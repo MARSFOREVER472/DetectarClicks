@@ -6,4 +6,4 @@
 
 - **_Cómo crear un detector/contador de clicks en Javascript!_**
 - **_Javascript para novatos._**
-- _Aplicaciones creadas en Javascript._
+- **_Aplicaciones creadas en Javascript._**
