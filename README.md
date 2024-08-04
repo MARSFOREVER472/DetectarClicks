@@ -1,3 +1,3 @@
-# DetectarClicks
+# _DetectarClicks_
 
 ## **_Cómo crear un detector/contador de clicks en Javascript!_**
