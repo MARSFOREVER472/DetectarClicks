@@ -2,4 +2,4 @@
 
 ## **_Cómo crear un detector/contador de clicks en Javascript!_**
 
-Detectar click en Javascript:
+_Detectar click en Javascript:_
