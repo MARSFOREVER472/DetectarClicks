@@ -10,7 +10,7 @@
   
 - **_Aplicaciones realizadas en Javascript._**
   
-- **_Aprende a capturar el click en un botón usando Javascript!_**
+- **_Aprende a capturar el click en un botón utilizando Javascript!_**
 
 - **_¿Quieres aprender a crear una aplicación que te indica cuántas veces se ha hecho click en un botón?_**
 
