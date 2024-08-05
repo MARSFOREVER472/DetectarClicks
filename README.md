@@ -14,4 +14,4 @@
 
 - **_¿Quieres aprender a crear una aplicación que te indica cuántas veces se ha hecho click en un botón?_**
 
-- **_El programa que vamos a crear en este vídeo es capaz de detectar si se ha hecho click sobre un botón y te muestra el número de veces en la que este botón ha sido presionado por el usuario._**
+- **_El programa que vamos a crear en este vídeo es capaz de detectar si se ha hecho click sobre un botón y te muestra la cantidad de veces en la que este botón ha sido presionado por el usuario._**
