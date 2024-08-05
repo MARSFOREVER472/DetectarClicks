@@ -16,4 +16,4 @@
 
 - **_El programa que vamos a crear en este vídeo es capaz de detectar si se ha hecho click sobre un botón y te muestra la cantidad de veces en la que este botón ha sido presionado por el usuario._**
 
-Cómo capturar el evento de hacer click mediante un botón!
+_Cómo capturar el evento de hacer click mediante un botón!_
