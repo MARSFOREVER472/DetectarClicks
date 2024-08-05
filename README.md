@@ -24,6 +24,6 @@
 
 - **_Esta es una aplicación muy fácil de realizar, ideal para aquellas personas que están aprendiendo Javascript y quieren aprender a crear sus propias aplicaciones!_**
 
-Este tipo de efecto se ve con mucha frecuencia en webs que tienen la necesidad de mantener una cuenta de las veces que se presiona un botón dentro de una aplicación! 
+- Este tipo de efecto se ve con mucha frecuencia en webs que tienen la necesidad de mantener una cuenta de las veces que se presiona un botón dentro de una aplicación! 
 
 Es algo fácil de realizar, pero se usa con mucha frecuencia!
