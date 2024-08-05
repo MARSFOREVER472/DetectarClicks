@@ -18,4 +18,4 @@
 
 - **_Cómo capturar el evento de hacer click mediante un botón!_**
 
-- **_En este proyecto utilizaremos el evento `onclick` para saber si se ha hecho un click en este botón!_**
+- **_En este proyecto utilizaremos el evento `onclick` para saber si se ha hecho click en este botón!_**
