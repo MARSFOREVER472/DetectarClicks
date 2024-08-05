@@ -22,4 +22,4 @@
 
 - **_Y luego, mostraremos al usuario información que le indica cuántas veces se ha hecho click sobre ese botón!_**
 
-- Esta es una aplicación muy fácil de realizar, ideal para aquellas personas que están aprendiendo Javascript y quieren aprender a crear sus propias aplicaciones! 
+- _Esta es una aplicación muy fácil de realizar, ideal para aquellas personas que están aprendiendo Javascript y quieren aprender a crear sus propias aplicaciones!_ 
