@@ -21,3 +21,4 @@
 - **_En este proyecto utilizaremos el evento `onclick` para saber si se ha hecho click en este botón!_**
 
 - **_Y luego, mostraremos al usuario información que le indica cuántas veces se ha hecho click sobre ese botón!_**
+Esta es una aplicación muy fácil de realizar, ideal para aquellas personas que están aprendiendo Javascript y quieren aprender a crear sus propias aplicaciones! 
