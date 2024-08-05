@@ -20,4 +20,4 @@
 
 - **_En este proyecto utilizaremos el evento `onclick` para saber si se ha hecho click en este botón!_**
 
-Y luego, mostraremos al usuario información que le indica cuántas veces se ha hecho click sobre ese botón! 
+- Y luego, mostraremos al usuario información que le indica cuántas veces se ha hecho click sobre ese botón! 
